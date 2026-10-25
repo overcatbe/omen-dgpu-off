@@ -4,7 +4,7 @@ A tiny Linux kernel module that fixes the **"laptop doesn't really turn off"**
 problem on the **HP OMEN 16-ap0xxx** (board ID `8E35`, AMD Ryzen + Radeon 610M
 iGPU + NVIDIA RTX 50-series Laptop dGPU).
 
-ON OTHER BOARD MODELS THIS MODULE WON'T RUN 
+ON OTHER BOARD MODELS THIS MODULE GRACEFULLY WON'T RUN 
 - feel free to read the tables from your own firmware 
 - or have AI read and adjust for you. 
 
